@@ -41,7 +41,7 @@ class ViewController: UIViewController {
         
         super.viewWillAppear(animated)
         print("view will appear")
-     //   billValue.becomeFirstResponder()
+        billValue.becomeFirstResponder()
     
     }
     
