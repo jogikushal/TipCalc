@@ -13,4 +13,8 @@ Tasks Completed:
  Additional: Bill amount is always the first responder avoiding the need to tap for entering the bill amount.
  Additional: Remembering the tip percentage across app restarts.
  Additional: The amount to be paid per person.
- Additional: Number of people can be set from the seetings screen.</pre>
+ Additional: Number of people can be set from the seetings screen.
+ 
+ Demo:</pre>
+ 
+ <img src="Demo2.gif" alt="HTML5 Icon">
